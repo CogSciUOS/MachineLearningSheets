@@ -1,4 +1,4 @@
-This week's exercise relies completely on Jupyter. If you did not install it yet, check last week's exercise sheet for instructions.
+This week's exercise sheet relies completely on Jupyter. If you did not install it yet, check last week's exercise sheet for instructions.
 
 Just a quick recap to get you started:
 
