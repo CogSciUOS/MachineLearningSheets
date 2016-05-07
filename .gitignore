@@ -60,3 +60,6 @@ target/
 
 #Ipython Notebook
 .ipynb_checkpoints
+# OS junk
+.DS_Store
+thumbs.db
