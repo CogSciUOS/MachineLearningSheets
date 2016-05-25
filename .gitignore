@@ -63,3 +63,5 @@ target/
 # OS junk
 .DS_Store
 thumbs.db
+eigenfaces
+leafsnap
