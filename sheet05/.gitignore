@@ -1,0 +1,3 @@
+#ignoring the data folders
+eigenfaces/**
+leafsnap/**
