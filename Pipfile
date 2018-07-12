@@ -1,0 +1,18 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+jupyter = "*"
+numpy = "*"
+scipy = "*"
+matplotlib = "*"
+cython = "*"
+scikit-learn = {editable = true, ref = "master", git = "https://github.com/scikit-learn/scikit-learn"}
+pillow = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.7"
